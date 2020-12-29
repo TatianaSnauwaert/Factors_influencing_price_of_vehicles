@@ -29,4 +29,4 @@ Prepare a report for the Crankshaft List to determine whether age, mileage, cond
 5. There is no clear connection between price and paint color, it depends mostly on customers' preferences. Interestingly, orange cars seem to be the most expensive, although their number is quite low in this data set (only 88 cars). Most cars are black and silver but they are not the most expensive.
 
 ### The logbook of this project can be found [here](https://docs.google.com/spreadsheets/d/1SrGdReexaSEomJGS6yR6cRwJtHA_XqpprnLaE7B6Ayg/edit#gid=1569576158) (Introduction to EDA tab).
-Total time spent on the project: 31.7 hours with a daily average	of 2.74 hours working for 13 days.
+Total time spent on the project: 32.6 hours with a daily average	of 2.17 hours working for 14 days.
